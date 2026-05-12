@@ -1,0 +1,1541 @@
+[
+  {
+    "fecha": "2026-02-01T18:39:45.043836",
+    "descripcion": "Rappi - Domicilio comida",
+    "monto": 33900.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-02T18:39:45.043836",
+    "descripcion": "Uber - Viaje",
+    "monto": 11500.0,
+    "tipo": "egreso",
+    "categoria": "Transporte",
+    "emoji_cat": "🚗",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-03T18:39:45.043836",
+    "descripcion": "Recarga SITP Transmilenio",
+    "monto": 12500.0,
+    "tipo": "egreso",
+    "categoria": "Transporte",
+    "emoji_cat": "🚗",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-03T18:39:45.043836",
+    "descripcion": "Almuerzo corriente cafeteria",
+    "monto": 8500.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-04T18:39:45.043836",
+    "descripcion": "Rappi - Domicilio comida",
+    "monto": 22000.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-04T18:39:45.043836",
+    "descripcion": "Maquina expendedora",
+    "monto": 8800.0,
+    "tipo": "egreso",
+    "categoria": "Otros",
+    "emoji_cat": "❓",
+    "tipo_gasto": "Otros"
+  },
+  {
+    "fecha": "2026-02-04T18:39:45.043836",
+    "descripcion": "Falabella - Ropa",
+    "monto": 118000.0,
+    "tipo": "egreso",
+    "categoria": "Ropa y Accesorios",
+    "emoji_cat": "👕",
+    "tipo_gasto": "Innecesario"
+  },
+  {
+    "fecha": "2026-02-04T18:39:45.043836",
+    "descripcion": "Tienda D1 - Mercado",
+    "monto": 16000.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-05T18:39:45.043836",
+    "descripcion": "Parqueadero centro",
+    "monto": 6100.0,
+    "tipo": "egreso",
+    "categoria": "Transporte",
+    "emoji_cat": "🚗",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-05T18:39:45.043836",
+    "descripcion": "Supermercado Ara - Compra",
+    "monto": 32800.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-06T18:39:45.043836",
+    "descripcion": "Uber - Viaje",
+    "monto": 18200.0,
+    "tipo": "egreso",
+    "categoria": "Transporte",
+    "emoji_cat": "🚗",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-06T18:39:45.043836",
+    "descripcion": "Netflix suscripcion mensual",
+    "monto": 26900.0,
+    "tipo": "egreso",
+    "categoria": "Entretenimiento",
+    "emoji_cat": "🎉",
+    "tipo_gasto": "Innecesario"
+  },
+  {
+    "fecha": "2026-02-06T18:39:45.043836",
+    "descripcion": "InDriver - Viaje",
+    "monto": 16600.0,
+    "tipo": "egreso",
+    "categoria": "Transporte",
+    "emoji_cat": "🚗",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-06T18:39:45.043836",
+    "descripcion": "Supermercado Exito - Compra",
+    "monto": 147900.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-06T18:39:45.043836",
+    "descripcion": "Maquina expendedora",
+    "monto": 8200.0,
+    "tipo": "egreso",
+    "categoria": "Otros",
+    "emoji_cat": "❓",
+    "tipo_gasto": "Otros"
+  },
+  {
+    "fecha": "2026-02-06T18:39:45.043836",
+    "descripcion": "Plan Celular Movistar",
+    "monto": 57100.0,
+    "tipo": "egreso",
+    "categoria": "Vivienda",
+    "emoji_cat": "🏠",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-07T18:39:45.043836",
+    "descripcion": "Supermercado Exito - Compra",
+    "monto": 65900.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-08T18:39:45.043836",
+    "descripcion": "Supermercado Exito - Compra",
+    "monto": 145900.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-09T18:39:45.043836",
+    "descripcion": "Disney Plus suscripcion",
+    "monto": 19500.0,
+    "tipo": "egreso",
+    "categoria": "Entretenimiento",
+    "emoji_cat": "🎉",
+    "tipo_gasto": "Innecesario"
+  },
+  {
+    "fecha": "2026-02-09T18:39:45.043836",
+    "descripcion": "Libro Amazon - Educacion",
+    "monto": 45300.0,
+    "tipo": "egreso",
+    "categoria": "Educacion",
+    "emoji_cat": "📚",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-10T18:39:45.043836",
+    "descripcion": "Maquina expendedora",
+    "monto": 6200.0,
+    "tipo": "egreso",
+    "categoria": "Otros",
+    "emoji_cat": "❓",
+    "tipo_gasto": "Otros"
+  },
+  {
+    "fecha": "2026-02-10T18:39:45.043836",
+    "descripcion": "Plan Celular Movistar",
+    "monto": 37400.0,
+    "tipo": "egreso",
+    "categoria": "Vivienda",
+    "emoji_cat": "🏠",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-11T18:39:45.043836",
+    "descripcion": "Tennis - Zapatos tenis",
+    "monto": 85500.0,
+    "tipo": "egreso",
+    "categoria": "Ropa y Accesorios",
+    "emoji_cat": "👕",
+    "tipo_gasto": "Innecesario"
+  },
+  {
+    "fecha": "2026-02-11T18:39:45.043836",
+    "descripcion": "Maquina expendedora",
+    "monto": 9100.0,
+    "tipo": "egreso",
+    "categoria": "Otros",
+    "emoji_cat": "❓",
+    "tipo_gasto": "Otros"
+  },
+  {
+    "fecha": "2026-02-11T18:39:45.043836",
+    "descripcion": "InDriver - Viaje",
+    "monto": 10200.0,
+    "tipo": "egreso",
+    "categoria": "Transporte",
+    "emoji_cat": "🚗",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-11T18:39:45.043836",
+    "descripcion": "Rappi - Domicilio comida",
+    "monto": 48600.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-12T18:39:45.043836",
+    "descripcion": "Almuerzo corriente cafeteria",
+    "monto": 11900.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-13T18:39:45.043836",
+    "descripcion": "Fruver La Cosecha",
+    "monto": 19600.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-13T18:39:45.043836",
+    "descripcion": "Cafe Juan Valdez",
+    "monto": 4300.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-14T18:39:45.043836",
+    "descripcion": "Pizza Dominos - Domicilio",
+    "monto": 22200.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-15T18:39:45.043836",
+    "descripcion": "Pago Arriendo Apartamento",
+    "monto": 766500.0,
+    "tipo": "egreso",
+    "categoria": "Vivienda",
+    "emoji_cat": "🏠",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-15T18:39:45.043836",
+    "descripcion": "Pizza Dominos - Domicilio",
+    "monto": 30500.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-15T18:39:45.043836",
+    "descripcion": "Consulta Medica EPS",
+    "monto": 23400.0,
+    "tipo": "egreso",
+    "categoria": "Salud",
+    "emoji_cat": "💊",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-15T18:39:45.043836",
+    "descripcion": "Cine Colombia - Boletas",
+    "monto": 28400.0,
+    "tipo": "egreso",
+    "categoria": "Entretenimiento",
+    "emoji_cat": "🎉",
+    "tipo_gasto": "Innecesario"
+  },
+  {
+    "fecha": "2026-02-15T18:39:45.043836",
+    "descripcion": "Cafe oficina",
+    "monto": 8600.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-16T18:39:45.043836",
+    "descripcion": "Recarga SITP Transmilenio",
+    "monto": 10200.0,
+    "tipo": "egreso",
+    "categoria": "Transporte",
+    "emoji_cat": "🚗",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-18T18:39:45.043836",
+    "descripcion": "Cafe oficina",
+    "monto": 9600.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-19T18:39:45.043836",
+    "descripcion": "Tanqueo Gasolina estacion",
+    "monto": 118500.0,
+    "tipo": "egreso",
+    "categoria": "Transporte",
+    "emoji_cat": "🚗",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-19T18:39:45.043836",
+    "descripcion": "Cafe oficina",
+    "monto": 9700.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-20T18:39:45.043836",
+    "descripcion": "Cafe Juan Valdez",
+    "monto": 13500.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-21T18:39:45.043836",
+    "descripcion": "Parqueadero centro",
+    "monto": 11600.0,
+    "tipo": "egreso",
+    "categoria": "Transporte",
+    "emoji_cat": "🚗",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-21T18:39:45.043836",
+    "descripcion": "Pizza Dominos - Domicilio",
+    "monto": 25000.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-21T18:39:45.043836",
+    "descripcion": "Parqueadero centro",
+    "monto": 7800.0,
+    "tipo": "egreso",
+    "categoria": "Transporte",
+    "emoji_cat": "🚗",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-22T18:39:45.043836",
+    "descripcion": "Servicios Luz - Codensa",
+    "monto": 47600.0,
+    "tipo": "egreso",
+    "categoria": "Vivienda",
+    "emoji_cat": "🏠",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-24T18:39:45.043836",
+    "descripcion": "Panaderia La Especial",
+    "monto": 11100.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-24T18:39:45.043836",
+    "descripcion": "Maquina expendedora",
+    "monto": 5800.0,
+    "tipo": "egreso",
+    "categoria": "Otros",
+    "emoji_cat": "❓",
+    "tipo_gasto": "Otros"
+  },
+  {
+    "fecha": "2026-02-26T18:39:45.043836",
+    "descripcion": "Tienda - Snack",
+    "monto": 3000.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-27T18:39:45.043836",
+    "descripcion": "Tienda D1 - Mercado",
+    "monto": 33200.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-27T18:39:45.043836",
+    "descripcion": "Tienda - Snack",
+    "monto": 6900.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-28T18:39:45.043836",
+    "descripcion": "Nomina - Salario mensual",
+    "monto": 2500000.0,
+    "tipo": "ingreso",
+    "categoria": "Otros",
+    "emoji_cat": "❓",
+    "tipo_gasto": "Otros"
+  },
+  {
+    "fecha": "2026-02-28T18:39:45.043836",
+    "descripcion": "Cafe Juan Valdez",
+    "monto": 4200.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-28T18:39:45.043836",
+    "descripcion": "Pago Arriendo Apartamento",
+    "monto": 849700.0,
+    "tipo": "egreso",
+    "categoria": "Vivienda",
+    "emoji_cat": "🏠",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-28T18:39:45.043836",
+    "descripcion": "Almuerzo corriente cafeteria",
+    "monto": 8900.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-02-28T18:39:45.043836",
+    "descripcion": "Cine Colombia - Boletas",
+    "monto": 35200.0,
+    "tipo": "egreso",
+    "categoria": "Entretenimiento",
+    "emoji_cat": "🎉",
+    "tipo_gasto": "Innecesario"
+  },
+  {
+    "fecha": "2026-03-02T18:39:45.043836",
+    "descripcion": "Servicios Agua - Acueducto",
+    "monto": 46600.0,
+    "tipo": "egreso",
+    "categoria": "Vivienda",
+    "emoji_cat": "🏠",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-02T18:39:45.043836",
+    "descripcion": "Tanqueo Gasolina estacion",
+    "monto": 93400.0,
+    "tipo": "egreso",
+    "categoria": "Transporte",
+    "emoji_cat": "🚗",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-03T18:39:45.043836",
+    "descripcion": "Uber - Viaje",
+    "monto": 22400.0,
+    "tipo": "egreso",
+    "categoria": "Transporte",
+    "emoji_cat": "🚗",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-03T18:39:45.043836",
+    "descripcion": "Maquina expendedora",
+    "monto": 6300.0,
+    "tipo": "egreso",
+    "categoria": "Otros",
+    "emoji_cat": "❓",
+    "tipo_gasto": "Otros"
+  },
+  {
+    "fecha": "2026-03-03T18:39:45.043836",
+    "descripcion": "Spotify Premium mensual",
+    "monto": 19500.0,
+    "tipo": "egreso",
+    "categoria": "Entretenimiento",
+    "emoji_cat": "🎉",
+    "tipo_gasto": "Innecesario"
+  },
+  {
+    "fecha": "2026-03-03T18:39:45.043836",
+    "descripcion": "Pizza Dominos - Domicilio",
+    "monto": 40900.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-04T18:39:45.043836",
+    "descripcion": "Cafe Juan Valdez",
+    "monto": 3200.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-04T18:39:45.043836",
+    "descripcion": "Cafe Juan Valdez",
+    "monto": 13000.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-05T18:39:45.043836",
+    "descripcion": "Drogueria Cruz Verde - Farmacia",
+    "monto": 35700.0,
+    "tipo": "egreso",
+    "categoria": "Salud",
+    "emoji_cat": "💊",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-06T18:39:45.043836",
+    "descripcion": "Cafe Juan Valdez",
+    "monto": 5000.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-06T18:39:45.043836",
+    "descripcion": "Fruver La Cosecha",
+    "monto": 10700.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-07T18:39:45.043836",
+    "descripcion": "Maquina expendedora",
+    "monto": 3700.0,
+    "tipo": "egreso",
+    "categoria": "Otros",
+    "emoji_cat": "❓",
+    "tipo_gasto": "Otros"
+  },
+  {
+    "fecha": "2026-03-07T18:39:45.043836",
+    "descripcion": "Netflix suscripcion mensual",
+    "monto": 25900.0,
+    "tipo": "egreso",
+    "categoria": "Entretenimiento",
+    "emoji_cat": "🎉",
+    "tipo_gasto": "Innecesario"
+  },
+  {
+    "fecha": "2026-03-07T18:39:45.043836",
+    "descripcion": "Panaderia La Especial",
+    "monto": 10000.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-07T18:39:45.043836",
+    "descripcion": "Fruver La Cosecha",
+    "monto": 25700.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-08T18:39:45.043836",
+    "descripcion": "Cafe Juan Valdez",
+    "monto": 5700.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-10T18:39:45.043836",
+    "descripcion": "Libro Amazon - Educacion",
+    "monto": 18300.0,
+    "tipo": "egreso",
+    "categoria": "Educacion",
+    "emoji_cat": "📚",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-10T18:39:45.043836",
+    "descripcion": "Parqueadero centro",
+    "monto": 6200.0,
+    "tipo": "egreso",
+    "categoria": "Transporte",
+    "emoji_cat": "🚗",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-11T18:39:45.043836",
+    "descripcion": "Tienda - Snack",
+    "monto": 6600.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-11T18:39:45.043836",
+    "descripcion": "InDriver - Viaje",
+    "monto": 8300.0,
+    "tipo": "egreso",
+    "categoria": "Transporte",
+    "emoji_cat": "🚗",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-11T18:39:45.043836",
+    "descripcion": "InDriver - Viaje",
+    "monto": 14600.0,
+    "tipo": "egreso",
+    "categoria": "Transporte",
+    "emoji_cat": "🚗",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-13T18:39:45.043836",
+    "descripcion": "Servicios Agua - Acueducto",
+    "monto": 34500.0,
+    "tipo": "egreso",
+    "categoria": "Vivienda",
+    "emoji_cat": "🏠",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-13T18:39:45.043836",
+    "descripcion": "Recarga SITP Transmilenio",
+    "monto": 10500.0,
+    "tipo": "egreso",
+    "categoria": "Transporte",
+    "emoji_cat": "🚗",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-14T18:39:45.043836",
+    "descripcion": "Tienda D1 - Mercado",
+    "monto": 16100.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-14T18:39:45.043836",
+    "descripcion": "Tienda - Snack",
+    "monto": 2800.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-15T18:39:45.043836",
+    "descripcion": "Cafe Juan Valdez",
+    "monto": 9200.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-15T18:39:45.043836",
+    "descripcion": "Disney Plus suscripcion",
+    "monto": 20600.0,
+    "tipo": "egreso",
+    "categoria": "Entretenimiento",
+    "emoji_cat": "🎉",
+    "tipo_gasto": "Innecesario"
+  },
+  {
+    "fecha": "2026-03-15T18:39:45.043836",
+    "descripcion": "Cafe Juan Valdez",
+    "monto": 9200.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-16T18:39:45.043836",
+    "descripcion": "Tienda - Snack",
+    "monto": 7500.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-16T18:39:45.043836",
+    "descripcion": "Uber - Viaje",
+    "monto": 8400.0,
+    "tipo": "egreso",
+    "categoria": "Transporte",
+    "emoji_cat": "🚗",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-16T18:39:45.043836",
+    "descripcion": "Servicios Agua - Acueducto",
+    "monto": 35200.0,
+    "tipo": "egreso",
+    "categoria": "Vivienda",
+    "emoji_cat": "🏠",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-17T18:39:45.043836",
+    "descripcion": "Cafe oficina",
+    "monto": 9800.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-17T18:39:45.043836",
+    "descripcion": "InDriver - Viaje",
+    "monto": 19000.0,
+    "tipo": "egreso",
+    "categoria": "Transporte",
+    "emoji_cat": "🚗",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-17T18:39:45.043836",
+    "descripcion": "Tanqueo Gasolina estacion",
+    "monto": 54300.0,
+    "tipo": "egreso",
+    "categoria": "Transporte",
+    "emoji_cat": "🚗",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-18T18:39:45.043836",
+    "descripcion": "Rappi - Domicilio comida",
+    "monto": 23700.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-19T18:39:45.043836",
+    "descripcion": "Tanqueo Gasolina estacion",
+    "monto": 80300.0,
+    "tipo": "egreso",
+    "categoria": "Transporte",
+    "emoji_cat": "🚗",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-19T18:39:45.043836",
+    "descripcion": "Tanqueo Gasolina estacion",
+    "monto": 122700.0,
+    "tipo": "egreso",
+    "categoria": "Transporte",
+    "emoji_cat": "🚗",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-19T18:39:45.043836",
+    "descripcion": "Pizza Dominos - Domicilio",
+    "monto": 23300.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-20T18:39:45.043836",
+    "descripcion": "Tienda - Snack",
+    "monto": 9800.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-20T18:39:45.043836",
+    "descripcion": "Netflix suscripcion mensual",
+    "monto": 25100.0,
+    "tipo": "egreso",
+    "categoria": "Entretenimiento",
+    "emoji_cat": "🎉",
+    "tipo_gasto": "Innecesario"
+  },
+  {
+    "fecha": "2026-03-21T18:39:45.043836",
+    "descripcion": "Supermercado Exito - Compra",
+    "monto": 138300.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-21T18:39:45.043836",
+    "descripcion": "Pizza Dominos - Domicilio",
+    "monto": 22400.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-22T18:39:45.043836",
+    "descripcion": "InDriver - Viaje",
+    "monto": 8500.0,
+    "tipo": "egreso",
+    "categoria": "Transporte",
+    "emoji_cat": "🚗",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-22T18:39:45.043836",
+    "descripcion": "Gimnasio Smart Fit mensual",
+    "monto": 48700.0,
+    "tipo": "egreso",
+    "categoria": "Salud",
+    "emoji_cat": "💊",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-23T18:39:45.043836",
+    "descripcion": "Recarga SITP Transmilenio",
+    "monto": 10100.0,
+    "tipo": "egreso",
+    "categoria": "Transporte",
+    "emoji_cat": "🚗",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-23T18:39:45.043836",
+    "descripcion": "Servicios Gas Natural",
+    "monto": 17500.0,
+    "tipo": "egreso",
+    "categoria": "Vivienda",
+    "emoji_cat": "🏠",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-23T18:39:45.043836",
+    "descripcion": "Maquina expendedora",
+    "monto": 8400.0,
+    "tipo": "egreso",
+    "categoria": "Otros",
+    "emoji_cat": "❓",
+    "tipo_gasto": "Otros"
+  },
+  {
+    "fecha": "2026-03-24T18:39:45.043836",
+    "descripcion": "Platzi - Suscripcion cursos",
+    "monto": 35600.0,
+    "tipo": "egreso",
+    "categoria": "Educacion",
+    "emoji_cat": "📚",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-24T18:39:45.043836",
+    "descripcion": "Tienda D1 - Mercado",
+    "monto": 14800.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-26T18:39:45.043836",
+    "descripcion": "Tennis - Zapatos tenis",
+    "monto": 75700.0,
+    "tipo": "egreso",
+    "categoria": "Ropa y Accesorios",
+    "emoji_cat": "👕",
+    "tipo_gasto": "Innecesario"
+  },
+  {
+    "fecha": "2026-03-26T18:39:45.043836",
+    "descripcion": "Almuerzo corriente cafeteria",
+    "monto": 9900.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-26T18:39:45.043836",
+    "descripcion": "Servicios Luz - Codensa",
+    "monto": 71900.0,
+    "tipo": "egreso",
+    "categoria": "Vivienda",
+    "emoji_cat": "🏠",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-27T18:39:45.043836",
+    "descripcion": "Tennis - Zapatos tenis",
+    "monto": 47400.0,
+    "tipo": "egreso",
+    "categoria": "Ropa y Accesorios",
+    "emoji_cat": "👕",
+    "tipo_gasto": "Innecesario"
+  },
+  {
+    "fecha": "2026-03-27T18:39:45.043836",
+    "descripcion": "Gimnasio Smart Fit mensual",
+    "monto": 37800.0,
+    "tipo": "egreso",
+    "categoria": "Salud",
+    "emoji_cat": "💊",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-27T18:39:45.043836",
+    "descripcion": "Tienda - Snack",
+    "monto": 8400.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-28T18:39:45.043836",
+    "descripcion": "Cafe Juan Valdez",
+    "monto": 8900.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-28T18:39:45.043836",
+    "descripcion": "InDriver - Viaje",
+    "monto": 8300.0,
+    "tipo": "egreso",
+    "categoria": "Transporte",
+    "emoji_cat": "🚗",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-28T18:39:45.043836",
+    "descripcion": "Nomina - Salario mensual",
+    "monto": 2500000.0,
+    "tipo": "ingreso",
+    "categoria": "Otros",
+    "emoji_cat": "❓",
+    "tipo_gasto": "Otros"
+  },
+  {
+    "fecha": "2026-03-28T18:39:45.043836",
+    "descripcion": "Tienda D1 - Mercado",
+    "monto": 29100.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-03-28T18:39:45.043836",
+    "descripcion": "Panaderia La Especial",
+    "monto": 8500.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-01T18:39:45.043836",
+    "descripcion": "Pizza Dominos - Domicilio",
+    "monto": 28300.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-02T18:39:45.043836",
+    "descripcion": "Tanqueo Gasolina estacion",
+    "monto": 61100.0,
+    "tipo": "egreso",
+    "categoria": "Transporte",
+    "emoji_cat": "🚗",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-02T18:39:45.043836",
+    "descripcion": "Tienda - Snack",
+    "monto": 4200.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-03T18:39:45.043836",
+    "descripcion": "Rappi - Domicilio comida",
+    "monto": 29300.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-04T18:39:45.043836",
+    "descripcion": "Spotify Premium mensual",
+    "monto": 19400.0,
+    "tipo": "egreso",
+    "categoria": "Entretenimiento",
+    "emoji_cat": "🎉",
+    "tipo_gasto": "Innecesario"
+  },
+  {
+    "fecha": "2026-04-05T18:39:45.043836",
+    "descripcion": "Cafe oficina",
+    "monto": 5000.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-06T18:39:45.043836",
+    "descripcion": "Servicios Gas Natural",
+    "monto": 24400.0,
+    "tipo": "egreso",
+    "categoria": "Vivienda",
+    "emoji_cat": "🏠",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-07T18:39:45.043836",
+    "descripcion": "Cafe oficina",
+    "monto": 5400.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-08T18:39:45.043836",
+    "descripcion": "Parqueadero centro",
+    "monto": 8700.0,
+    "tipo": "egreso",
+    "categoria": "Transporte",
+    "emoji_cat": "🚗",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-08T18:39:45.043836",
+    "descripcion": "Tanqueo Gasolina estacion",
+    "monto": 100500.0,
+    "tipo": "egreso",
+    "categoria": "Transporte",
+    "emoji_cat": "🚗",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-09T18:39:45.043836",
+    "descripcion": "Rappi - Domicilio comida",
+    "monto": 30500.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-09T18:39:45.043836",
+    "descripcion": "Tienda D1 - Mercado",
+    "monto": 48800.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-09T18:39:45.043836",
+    "descripcion": "Tienda D1 - Mercado",
+    "monto": 45400.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-09T18:39:45.043836",
+    "descripcion": "Restaurante El Corral",
+    "monto": 37400.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-09T18:39:45.043836",
+    "descripcion": "Papeleria - Copias e impresion",
+    "monto": 7200.0,
+    "tipo": "egreso",
+    "categoria": "Educacion",
+    "emoji_cat": "📚",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-10T18:39:45.043836",
+    "descripcion": "Internet Claro Hogar",
+    "monto": 91700.0,
+    "tipo": "egreso",
+    "categoria": "Vivienda",
+    "emoji_cat": "🏠",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-10T18:39:45.043836",
+    "descripcion": "Cafe Juan Valdez",
+    "monto": 9000.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-10T18:39:45.043836",
+    "descripcion": "Tienda D1 - Mercado",
+    "monto": 39500.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-10T18:39:45.043836",
+    "descripcion": "Papeleria - Copias e impresion",
+    "monto": 3100.0,
+    "tipo": "egreso",
+    "categoria": "Educacion",
+    "emoji_cat": "📚",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-10T18:39:45.043836",
+    "descripcion": "Cafe oficina",
+    "monto": 6100.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-11T18:39:45.043836",
+    "descripcion": "Platzi - Suscripcion cursos",
+    "monto": 24800.0,
+    "tipo": "egreso",
+    "categoria": "Educacion",
+    "emoji_cat": "📚",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-11T18:39:45.043836",
+    "descripcion": "Cafe Juan Valdez",
+    "monto": 12300.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-11T18:39:45.043836",
+    "descripcion": "Internet Claro Hogar",
+    "monto": 80300.0,
+    "tipo": "egreso",
+    "categoria": "Vivienda",
+    "emoji_cat": "🏠",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-12T18:39:45.043836",
+    "descripcion": "Cafe oficina",
+    "monto": 8900.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-13T18:39:45.043836",
+    "descripcion": "Cafe Juan Valdez",
+    "monto": 11400.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-13T18:39:45.043836",
+    "descripcion": "Internet Claro Hogar",
+    "monto": 78500.0,
+    "tipo": "egreso",
+    "categoria": "Vivienda",
+    "emoji_cat": "🏠",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-14T18:39:45.043836",
+    "descripcion": "Supermercado Exito - Compra",
+    "monto": 74700.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-14T18:39:45.043836",
+    "descripcion": "Pizza Dominos - Domicilio",
+    "monto": 23200.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-14T18:39:45.043836",
+    "descripcion": "Pizza Dominos - Domicilio",
+    "monto": 27700.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-15T18:39:45.043836",
+    "descripcion": "Rappi - Domicilio comida",
+    "monto": 44000.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-17T18:39:45.043836",
+    "descripcion": "Supermercado Ara - Compra",
+    "monto": 44800.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-18T18:39:45.043836",
+    "descripcion": "Cine Colombia - Boletas",
+    "monto": 30000.0,
+    "tipo": "egreso",
+    "categoria": "Entretenimiento",
+    "emoji_cat": "🎉",
+    "tipo_gasto": "Innecesario"
+  },
+  {
+    "fecha": "2026-04-18T18:39:45.043836",
+    "descripcion": "Netflix suscripcion mensual",
+    "monto": 34700.0,
+    "tipo": "egreso",
+    "categoria": "Entretenimiento",
+    "emoji_cat": "🎉",
+    "tipo_gasto": "Innecesario"
+  },
+  {
+    "fecha": "2026-04-18T18:39:45.043836",
+    "descripcion": "Tienda - Snack",
+    "monto": 4500.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-18T18:39:45.043836",
+    "descripcion": "Centro Comercial - Accesorios",
+    "monto": 43600.0,
+    "tipo": "egreso",
+    "categoria": "Ropa y Accesorios",
+    "emoji_cat": "👕",
+    "tipo_gasto": "Innecesario"
+  },
+  {
+    "fecha": "2026-04-19T18:39:45.043836",
+    "descripcion": "Tienda D1 - Mercado",
+    "monto": 26900.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-20T18:39:45.043836",
+    "descripcion": "Cafe oficina",
+    "monto": 7900.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-20T18:39:45.043836",
+    "descripcion": "Tanqueo Gasolina estacion",
+    "monto": 123800.0,
+    "tipo": "egreso",
+    "categoria": "Transporte",
+    "emoji_cat": "🚗",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-21T18:39:45.043836",
+    "descripcion": "Uber - Viaje",
+    "monto": 15500.0,
+    "tipo": "egreso",
+    "categoria": "Transporte",
+    "emoji_cat": "🚗",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-22T18:39:45.043836",
+    "descripcion": "Uber - Viaje",
+    "monto": 12500.0,
+    "tipo": "egreso",
+    "categoria": "Transporte",
+    "emoji_cat": "🚗",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-22T18:39:45.043836",
+    "descripcion": "Servicios Gas Natural",
+    "monto": 20200.0,
+    "tipo": "egreso",
+    "categoria": "Vivienda",
+    "emoji_cat": "🏠",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-22T18:39:45.043836",
+    "descripcion": "Cafe Juan Valdez",
+    "monto": 11200.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-22T18:39:45.043836",
+    "descripcion": "Rappi - Domicilio comida",
+    "monto": 24700.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-23T18:39:45.043836",
+    "descripcion": "Rappi - Domicilio comida",
+    "monto": 25800.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-23T18:39:45.043836",
+    "descripcion": "InDriver - Viaje",
+    "monto": 9900.0,
+    "tipo": "egreso",
+    "categoria": "Transporte",
+    "emoji_cat": "🚗",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-24T18:39:45.043836",
+    "descripcion": "Centro Comercial - Accesorios",
+    "monto": 46100.0,
+    "tipo": "egreso",
+    "categoria": "Ropa y Accesorios",
+    "emoji_cat": "👕",
+    "tipo_gasto": "Innecesario"
+  },
+  {
+    "fecha": "2026-04-24T18:39:45.043836",
+    "descripcion": "Pizza Dominos - Domicilio",
+    "monto": 37200.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-25T18:39:45.043836",
+    "descripcion": "Disney Plus suscripcion",
+    "monto": 21100.0,
+    "tipo": "egreso",
+    "categoria": "Entretenimiento",
+    "emoji_cat": "🎉",
+    "tipo_gasto": "Innecesario"
+  },
+  {
+    "fecha": "2026-04-25T18:39:45.043836",
+    "descripcion": "Centro Comercial - Accesorios",
+    "monto": 29400.0,
+    "tipo": "egreso",
+    "categoria": "Ropa y Accesorios",
+    "emoji_cat": "👕",
+    "tipo_gasto": "Innecesario"
+  },
+  {
+    "fecha": "2026-04-25T18:39:45.043836",
+    "descripcion": "Gimnasio Smart Fit mensual",
+    "monto": 47900.0,
+    "tipo": "egreso",
+    "categoria": "Salud",
+    "emoji_cat": "💊",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-26T18:39:45.043836",
+    "descripcion": "Servicios Luz - Codensa",
+    "monto": 41400.0,
+    "tipo": "egreso",
+    "categoria": "Vivienda",
+    "emoji_cat": "🏠",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-26T18:39:45.043836",
+    "descripcion": "Servicios Agua - Acueducto",
+    "monto": 37800.0,
+    "tipo": "egreso",
+    "categoria": "Vivienda",
+    "emoji_cat": "🏠",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-26T18:39:45.043836",
+    "descripcion": "Supermercado Ara - Compra",
+    "monto": 17600.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-26T18:39:45.043836",
+    "descripcion": "Cafe Juan Valdez",
+    "monto": 8100.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-27T18:39:45.043836",
+    "descripcion": "InDriver - Viaje",
+    "monto": 11700.0,
+    "tipo": "egreso",
+    "categoria": "Transporte",
+    "emoji_cat": "🚗",
+    "tipo_gasto": "Necesario"
+  },
+  {
+    "fecha": "2026-04-28T18:39:45.043836",
+    "descripcion": "Nomina - Salario mensual",
+    "monto": 2500000.0,
+    "tipo": "ingreso",
+    "categoria": "Otros",
+    "emoji_cat": "❓",
+    "tipo_gasto": "Otros"
+  },
+  {
+    "fecha": "2026-04-28T18:39:45.043836",
+    "descripcion": "Cafe oficina",
+    "monto": 3500.0,
+    "tipo": "egreso",
+    "categoria": "Alimentacion",
+    "emoji_cat": "🍽️",
+    "tipo_gasto": "Necesario"
+  }
+]
