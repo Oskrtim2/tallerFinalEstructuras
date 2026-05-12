@@ -1,8 +1,4 @@
-"""
-Categorizador automático de transacciones bancarias.
-Clasifica gastos por categoría y necesidad usando palabras clave
-en las descripciones de los movimientos.
-"""
+
 
 CATEGORIES = {
     "Alimentacion": {
@@ -81,9 +77,6 @@ CATEGORIES = {
 
 
 def categorize_transaction(description: str):
-    """Clasifica una transacción por su descripción.
-    Returns: (categoria, emoji, es_necesario)
-    """
     desc_lower = description.lower()
     for cat_name, cat_info in CATEGORIES.items():
         for keyword in cat_info["keywords"]:
@@ -93,7 +86,6 @@ def categorize_transaction(description: str):
 
 
 def categorize_dataframe(df):
-    """Agrega columnas de categoría a todo el DataFrame."""
     cats, emojis, types = [], [], []
     for _, row in df.iterrows():
         desc = str(row.get("descripcion", ""))
