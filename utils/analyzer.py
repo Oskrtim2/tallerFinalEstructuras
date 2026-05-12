@@ -1,19 +1,15 @@
-"""
-Motor de análisis de patrones de comportamiento financiero.
-Detecta: días de mayor gasto, gastos emocionales de fin de semana,
-gastos hormiga, categoría silenciosa, tendencia mensual.
-"""
+
 import pandas as pd
 import numpy as np
 
 
 def get_expenses(df):
-    """Filtra solo los egresos."""
+    
     return df[df["tipo"] == "egreso"].copy()
 
 
 def get_income(df):
-    """Filtra solo los ingresos."""
+    
     return df[df["tipo"] == "ingreso"].copy()
 
 
@@ -47,7 +43,6 @@ def spending_by_category(df):
 
 
 def spending_by_day_of_week(df):
-    """Gasto promedio por día de la semana."""
     expenses = get_expenses(df)
     dias = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Domingo"]
     expenses = expenses.copy()
@@ -58,9 +53,6 @@ def spending_by_day_of_week(df):
 
 
 def weekend_emotional_spending(df):
-    """Compara gasto entre semana vs fin de semana.
-    Detecta categorías con mayor aumento los fines de semana.
-    """
     expenses = get_expenses(df)
     expenses = expenses.copy()
     expenses["es_finsemana"] = expenses["fecha"].dt.dayofweek >= 5
@@ -127,9 +119,6 @@ def ant_expenses(df, threshold_pct=0.005):
 
 
 def silent_category(df):
-    """La categoría donde más se gasta sin darse cuenta:
-    muchas transacciones pequeñas que suman un monto alto.
-    """
     expenses = get_expenses(df)
     if len(expenses) == 0:
         return None
@@ -153,7 +142,6 @@ def silent_category(df):
 
 
 def monthly_trend(df):
-    """Tendencia de gasto mes a mes."""
     expenses = get_expenses(df)
     expenses = expenses.copy()
     expenses["mes"] = expenses["fecha"].dt.to_period("M").astype(str)
@@ -162,7 +150,6 @@ def monthly_trend(df):
 
 
 def daily_spending(df):
-    """Gasto diario para timeline."""
     expenses = get_expenses(df)
     daily = expenses.groupby(expenses["fecha"].dt.date)["monto"].sum()
     daily.index = pd.to_datetime(daily.index)
@@ -170,7 +157,6 @@ def daily_spending(df):
 
 
 def necessity_breakdown(df):
-    """Desglose por tipo de gasto (necesario/innecesario)."""
     expenses = get_expenses(df)
     if "tipo_gasto" not in expenses.columns:
         return {}
