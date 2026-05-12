@@ -1,4 +1,4 @@
-g"""Página 5: Recomendaciones Personalizadas para Ahorrar."""
+"""Página 5: Recomendaciones Personalizadas para Ahorrar."""
 import streamlit as st
 from utils.styles import inject_css, format_cop
 from utils.analyzer import (
